@@ -84,6 +84,9 @@ body {
   padding: 80px;
   margin-top: 30%;
 }
+#intro2-line14 {
+  font-size: 84px;
+}
 #friend-quotes ul {
   margin: 0;
   padding: 0;
@@ -114,7 +117,7 @@ body {
 }
 .friend .friend-experience,
 .friend .friend-admire {
-  font-size: 12.5px;
+  font-size: 14px;
   line-height: 2em;
   font-weight: 500;
   color: #333;
@@ -173,6 +176,69 @@ body {
   -webkit-animation-delay: 1s;
 }
 #kaleb img{
+  width: 400px;
+  height: 300px;
+  -webkit-border-radius: 50px;
+  -moz-border-radius: 50px;
+  border-radius: 50px;
+  border: 2px solid #fff;
+  box-sizing: border-box;
+  -moz-box-sizing: border-box;
+}
+#intro2-line6 #crying {
+  text-align: center;
+  animation-delay: 1s;
+  -webkit-animation-delay: 1s;
+}
+#intro2-line6 #crying img{
+  width: 400px;
+  height: 300px;
+  -webkit-border-radius: 50px;
+  -moz-border-radius: 50px;
+  border-radius: 50px;
+  border: 2px solid #fff;
+  box-sizing: border-box;
+  -moz-box-sizing: border-box;
+}
+
+#pics1 {
+  text-align: center;
+  animation-delay: 2s;
+  -webkit-animation-delay: 2s;
+}
+#pics1 img{
+  width: 400px;
+  height: 300px;
+  -webkit-border-radius: 50px;
+  -moz-border-radius: 50px;
+  border-radius: 50px;
+  border: 2px solid #fff;
+  box-sizing: border-box;
+  -moz-box-sizing: border-box;
+}
+
+#pics2 {
+  text-align: center;
+  animation-delay: 4s;
+  -webkit-animation-delay: 4s;
+}
+#pics2 img{
+  width: 400px;
+  height: 300px;
+  -webkit-border-radius: 50px;
+  -moz-border-radius: 50px;
+  border-radius: 50px;
+  border: 2px solid #fff;
+  box-sizing: border-box;
+  -moz-box-sizing: border-box;
+}
+
+.pics {
+  text-align: center;
+  animation-delay: 1s;
+  -webkit-animation-delay: 1s;
+}
+.kaleb img{
   width: 400px;
   height: 300px;
   -webkit-border-radius: 50px;
